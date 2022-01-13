@@ -1,0 +1,28 @@
+{
+    "tasks":[
+        {   
+            "id": 1,
+            "text": "tarea 1",
+            "day": "junio 23",
+            "reminder": true
+        },
+        {   
+            "id": 2,
+            "text": "tarea 2",
+            "day": "mayo 25",
+            "reminder": true
+        },
+        {   
+            "id": 3,
+            "text": "tarea 3",
+            "day": "diciembre 12",
+            "reminder": false
+        },
+        {   
+            "id": 4,
+            "text": "tarea 4",
+            "day": "abril 5",
+            "reminder": false
+        }
+    ]
+}
